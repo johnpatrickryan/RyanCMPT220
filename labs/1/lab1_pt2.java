@@ -10,7 +10,7 @@ public class lab1_pt2{
     double midterm = input.nextDouble();
  
     System.out.println("Final Exam");
-    double final = input.nextDouble();
+    double finalex = input.nextDouble();
 	
 	System.out.println("Projects");
     double projects = input.nextDouble();
@@ -18,14 +18,9 @@ public class lab1_pt2{
 	System.out.println("Homework and Labs");
     double homework = input.nextDouble();
 	
-	double finalGrade = ((midterm / 20) + (final / 20) + (projects / 20) + (homework/40));
+	double finalGrade = ((midterm * 0.2) + (finalex * 0.2) + (projects * 0.2) + (homework * 0.4));
 	
-	if (midterm <= 100 && midterm >= 0 && final <= 100 && final >= 0 && projects <= 100 && projects >= 0 && homework <= 100 && homework >= 0 &&){
-		System.out.println("Your final grade is: " + finalGrade +"%");
-	}
-	else {
-		System.out.println("Your grade from each section may not exceed 100 or be below 0")
-	}
+	System.out.println("Your final grade is: " + finalGrade +"%");
  
     
   }
