@@ -1,0 +1,33 @@
+60 points
+
+John,
+
+- Good job in creating your accounts!
+
+- Good job with your first GitHub submission!
+
+- Good organization of your repository! :)
+
+
+However,
+
+- The evidence of setting up the java compiler (javac) is missing, which is a
+  really big deal. Please make sure you have that correctly installed and
+  setup. Please come to see me if you need help.
+
+- You were asked to name your .pdf file hw0lastname.pdf where "lastname" is
+  your last name, but you did not follow instructions.
+
+- Please be careful in following instructions in the future.
+
+- A little header or cover page with your name, class, assignment, date, etc.
+  is always good to have in any assignment of this type.
+
+- You did not bring the assignment in printed version by the deadline.
+
+- You must submit your assignments on time.
+
+
+Peace,
+
+- Dr. Pablo Rivas
