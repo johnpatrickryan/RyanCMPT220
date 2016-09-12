@@ -1,0 +1,18 @@
+5 pts
+
+John,
+
+- Congratulations on passing the judge Kattis!
+
+
+However, 
+
+- The file you submitted as driver_proj0.java does not correspond to the
+  assignment given. 
+
+- Please read the assignment instructions carefully.
+
+
+Peace,
+
+- Dr. Rivas
