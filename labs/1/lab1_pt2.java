@@ -1,3 +1,4 @@
+// == missing header
 import java.util.Scanner;
 
 public class lab1_pt2{
@@ -6,6 +7,7 @@ public class lab1_pt2{
  
     System.out.println("Please enter the following as a percentage");
 	
+    // == you are using tabs!!
 	System.out.println("Midterm Exam");
     double midterm = input.nextDouble();
  

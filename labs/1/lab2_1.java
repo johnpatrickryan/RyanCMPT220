@@ -1,3 +1,4 @@
+// == missing header
 import java.util.Scanner;
 
 public class lab2_1{

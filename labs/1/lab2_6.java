@@ -1,3 +1,4 @@
+// == missing header
 import java.util.Scanner;
 
 public class lab2_6{
@@ -6,6 +7,7 @@ public class lab2_6{
 	
     System.out.println("Type an integer anywhere between 0 and 1000:");
     int inputNumber = input.nextInt();
+    // == you are using tabs!!
 	if (inputNumber < 1000 && inputNumber > 0){
 	
 	int first = (inputNumber % 10);
